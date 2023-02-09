@@ -4,7 +4,7 @@ const Footer = () => {
   return (
     <>
     <div>
-        <p>&copy; 2023 Sukanya</p>
+        <p>&copy; shivani</p>
     </div>
     </>
   )

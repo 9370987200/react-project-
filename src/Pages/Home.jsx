@@ -13,7 +13,6 @@ const Home = () => {
         <img src="https://wallpaperaccess.com/full/393735.jpg" alt="erroratimg3"/>
       </div>
     </div>
-
     <h2 id="sport">Latest Sport Stories <hr className='underline'/></h2>
     <br/><br/>
     <div className='sport-container'>
@@ -22,12 +21,12 @@ const Home = () => {
         <article>This blog sheds light on the most played games and their best players of 2022. Let's celebrate Sports Day by learning more about sports from our famous sports persons" </article>
         <p>Date:27-08-2022</p>
       </div>
-      <div className='card'>
+        <div className='card'>
         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAtVexxqk3YAx5pR4t6Ax4zMrvhzTmJ-RhgjN-NCKoomam5ws4-iLzpisqTgmrnx1vfwc&usqp=CAU"  alt="error"/>
         <article>India on Saturday defeated Sri Lanka in the final of Women Asia Cup to clinch the title a record-extending 7th time.PM Modi congratulated Indian Women cricket Team, following their record-extending seventh Women's Asia Cup title on Saturday.</article>
         <p>Date:01-01-2023</p>
       </div>
-      <div className='card'>
+        <div className='card'>
         <img src="https://assets.khelnow.com/news/uploads/2023/01/Indian-Sports-Calendar-2023-1200x600.jpg"  alt="error"/>
         <article>The year will also serve as a warmup to the upcoming Paris Olympic Games in 2024 with athletes aiming to seal qualification to the biggest sports extravaganza."</article>
         <p>Date:08-01-2023</p>
